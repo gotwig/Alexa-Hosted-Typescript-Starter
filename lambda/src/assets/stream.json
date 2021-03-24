@@ -1,0 +1,9 @@
+{
+    "stream": {
+        "token": "1",
+        "url": "https://wdr-wdr2-rheinland.icecastssl.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3",
+        "metadata": {
+          "title": "WDR Stream - Powered by Eddy"
+        }
+    }
+}
