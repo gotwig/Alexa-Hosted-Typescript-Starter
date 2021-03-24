@@ -1,7 +1,8 @@
 # Alexa-Hosted-Typescript-Starter
 
 This is a boilerplate if you want to create an Alexa-hosted Skill in Typescript!
-Very basic and easy. Comes with de-DE for now, can be easily changed online in Alexa Developer Console.
+Very basic and easy.
+Comes with de-DE for now, can be easily changed online in Alexa Developer Console.
 
 ## Features: ##
 * Persistence Storage API
