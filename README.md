@@ -1,5 +1,8 @@
 # Alexa-Hosted-Typescript-Starter
 
+Based on: https://github.com/ThomasVuillaume/alexa-skill-typescript-boilerplate-ask-v2
+and https://forums.developer.amazon.com/questions/224104/create-an-alexa-hosted-skill-nodejs-with-typescrip.html
+
 This is a boilerplate if you want to create an Alexa-hosted Skill in Typescript!
 Very basic and easy.
 Comes with de-DE for now, can be easily changed online in Alexa Developer Console.
