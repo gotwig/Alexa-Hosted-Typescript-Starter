@@ -1,17 +1,13 @@
 # Alexa-Hosted-Typescript-Starter
 
 This is a boilerplate if you want to create an Alexa-hosted Skill in Typescript!
-Very basic and easy.
+Very basic and easy. Comes with de-DE for now, can be easily changed online in Alexa Developer Console.
 
 ## Features: ##
 * Persistence Storage API
 * Audio Player API (needs to be enabled in the Developer Console, under Interfaces!)
 
 ## Usage: ##
-
-
-
-
 1. Create new Alexa-hosted skill with **ask create**
 2. **git clone** this repository
 3. open console in **lambda** subdirectory
